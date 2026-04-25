@@ -1,2 +1,29 @@
 git init
-"Sirve para iniciar el repositorio local"
+(Sirve para iniciar el repositorio local)git config
+
+git config -- local user.name "Gaby Montano"
+(Esto configura el nombre del usuario localmente)
+
+git config --local user.mail "montanogaby908@gmail.com"
+(Esto configura al email de usuario asociado a la cuenta github)
+
+git branch -M main
+(Cambiar el nombre de la rama Master a main)
+
+git add .
+(añade todos los archivos al repositorio)
+
+git commit -m "version de subida"
+(Es la version que usted esta subiendo al repositorio)
+
+git push -u origin main
+(Este empuja los cambios locales a la nube)
+
+git status
+(Comprueba el estado de la rama)
+
+git remote add origin 
+https://github.com/montanogaby908-cloud/maquetado_web.git
+(Añade la direccion de su repositorio se hace o ejecuta una unica vez)
+
+jsbdjabkjnbk
