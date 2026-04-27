@@ -26,4 +26,3 @@ git remote add origin
 https://github.com/montanogaby908-cloud/maquetado_web.git
 (Añade la direccion de su repositorio se hace o ejecuta una unica vez)
 
-jsbdjabkjnbk
